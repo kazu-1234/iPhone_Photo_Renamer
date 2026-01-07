@@ -49,4 +49,5 @@ pip install Pillow pillow-heif send2trash
 
 ## ライセンス
 
-個人の利用範囲において自由にご利用いただけます。再配布等はGitHubリポジトリのライセンス条項に従ってください。
+本ソフトウェアは [MIT License](LICENSE) の下で公開されています。
+詳細は [LICENSE](LICENSE) ファイルをご確認ください。
