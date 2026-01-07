@@ -1,0 +1,6 @@
+__pycache__/
+*.spec
+dist/
+build/
+iPhone_Photo_Renamer_backup/
+*.exe
